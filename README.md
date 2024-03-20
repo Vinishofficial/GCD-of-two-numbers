@@ -38,9 +38,4 @@ def gcd():
 ![image](https://github.com/Vinishofficial/GCD-of-two-numbers/assets/146931793/f3d2186e-ffbc-4970-9810-403a84afd0cd)
 
 ## Result:
-Thus the distance of the two points is sucessfully executed and displayed.
-
-
-
-## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
